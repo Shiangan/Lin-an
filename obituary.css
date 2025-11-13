@@ -189,6 +189,17 @@ header h1 {
     border-radius: 5px; /* 按钮圆角 */
 }
 
+#donate-flower a.btn-order {
+    font-family: 'ChenYu', Arial;
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 26px; /* 按钮字体大小 */
+    color: #fff; /* 按钮文字颜色 */
+    background-color: #0066cc; /* 按钮背景颜色 */
+    text-decoration: none; /* 去掉下划线 */
+    border-radius: 5px; /* 按钮圆角 */
+}
+
 #donate-flower a.btn:hover {
     background-color: #004d99; /* 鼠标悬停时背景颜色 */
 }
